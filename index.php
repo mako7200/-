@@ -23,7 +23,7 @@
               <a class="nav-link active" aria-current="page" href="index.php">自己紹介</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="https://mako7200.github.io">作品紹介</a>
+              <a class="nav-link" href="https://mako7200.github.io/Original-Web-Site/">作成サイト</a>
             </li>
             <li class="nav-item">
               <!-- フォームのID（※未完成） -->
